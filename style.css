@@ -1,0 +1,83 @@
+body {
+    font-family: 'Michroma', sans-serif;
+}
+@media (min-width: 1024px) {
+  .pra-style {
+    margin-top: 560px;
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+}
+/* ===== BASE ANIMATION STATES ===== */
+/* INITIAL STATE */
+.fade-up {
+  opacity: 0;
+  transform: translateY(60px);
+  transition: opacity 0.5s ease, transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+will-change: transform, opacity;
+}
+
+.fade-left {
+  opacity: 0;
+  transform: translateX(-60px);
+  transition: opacity 0.5s ease, transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+will-change: transform, opacity;
+}
+
+.fade-right {
+  opacity: 0;
+  transform: translateX(60px);
+  transition: opacity 0.5s ease, transform 0.s cubic-bezier(0.22, 1, 0.36, 1);
+will-change: transform, opacity;
+}
+
+/* ACTIVE */
+.animate {
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+/* ===== HERO LOAD ANIMATION ===== */
+.hero-text {
+  opacity: 0;
+  transform: translateY(40px);
+  animation: heroFade 1s ease forwards;
+}
+
+.hero-text:nth-child(2) {
+  animation-delay: 0.3s;
+}
+
+.hero-text:nth-child(3) {
+  animation-delay: 0.6s;
+}
+
+@keyframes heroFade {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.nav-link {
+  position: relative;
+  display: inline-block;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 2px;
+  background: currentColor;
+  transition: width 0.4s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
