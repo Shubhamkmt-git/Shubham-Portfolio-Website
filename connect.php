@@ -8,6 +8,8 @@
 <section class="bg-white px-2 md:px-6 py-12 reveal " id="connect">
   <div class="max-w-8xl mx-auto">
 
+
+  
     <!-- Heading -->
     <h2 class="text-5xl md:text-[140px] font-bold text-black fade-left">
     Connect<span class="text-[#F28347]">.</span>
