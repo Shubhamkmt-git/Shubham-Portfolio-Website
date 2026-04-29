@@ -5,7 +5,7 @@
 
 
 <section id="work" class="bg-[fff] font-michroma px-2 md:px-6 py-12 ">
-   <h2 class="text-6xl md:text-[140px] text-black fade-left ">My Work<span class="text-[#F28347]  ">.</span></h2>
+   <h2 class="text-5xl md:text-[140px] font-bold text-black fade-left ">My Work<span class="text-[#F28347]  ">.</span></h2>
 
   <div class="max-w-7xl mx-auto py-10">
 
@@ -21,12 +21,12 @@
      
 
       <!-- Description -->
-      <p class="text-gray-700 leading-relaxed mb-4  >
+      <p class="text-gray-700 leading-relaxed mb-4  ">
         Working on an e-commerce platform where I contribute to both frontend and backend development. Focused on building scalable features, improving UI experience, and optimizing system performance.
       </p>
 
       <!-- Tech Stack -->
-      <p class="text-sm text-black  ">
+      <p class="text-sm text-black ">
         <span class="font-semibold">Tech:</span> Spring Boot, ReactJS, PostgreSQL, Redis
       </p>
       link to project: <a href="https://www.limestreet.com/" target="_blank" 

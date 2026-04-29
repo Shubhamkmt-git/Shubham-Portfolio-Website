@@ -15,7 +15,7 @@
 <?php include 'work.php'; ?>
 <br>
 <hr class="max-w-7xl flex mx-auto">
-<?php include 'connect.php'; ?>
+<?php include 'connect.php'; ?>  
 
 
 

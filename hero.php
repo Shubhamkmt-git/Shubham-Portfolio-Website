@@ -4,12 +4,12 @@
 ?>
 
 
-<div class=" font-michroma bg-[#F28347] md:bg-white " id="hero">
-    <section id="hero" class="bg-[#F28347] mt-16 md:mt-0  grid grid-cols md:grid-cols-2 max-w-8xl   "> 
-      <div class="text-white bg-[#F28347] items-center my-auto   font-michroma md:p-10 ">
+<div class=" font-michroma bg-[#F28347] " id="hero">
+    <section id="hero" class="bg-[#F28347] grid grid-cols md:grid-cols-2 max-w-8xl   "> 
+      <div class="text-white bg-[#F28347] items-center my-auto mt-10  font-michroma md:p-10 ">
         <p class="text-4xl md:text-8xl mx-4  mt-10 hero-text">Hello I'm Shubham</p>
       
-         <p class=" mt-6 text-[#F28347]  text-md md:text-3xl bg-white  inline-block md:px-4 md:py-4  px-2 py-1 mx-4 hero-text">Web & Tech Develope</p>
+         <p class=" mt-6 text-[#F28347]  text-md md:text-3xl bg-white  inline-block md:px-4 md:py-4  px-2 py-1 mx-4 hero-text">Web & Tech Developer.</p>
        <br>
        <a href="https://wa.me/919680290425?text=Hello%2C%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20talk%20with%20you"
    target="_blank" class="px-4">
@@ -26,8 +26,8 @@
 </a>
 </div>
 
-      <div>
-        <img src="src/shubham-img.png" alt="shubham Image" class=" mt-10 w-auto h-auto md:h-[620px]  mx-auto md:mt-[100px] px-4">  
+      <div class="items-baseline">
+        <img src="src/shubham-img.png" alt="shubham Image" class=" mt-10 w-auto h-auto md:h-[620px]  mx-auto md:mt-[100px] px-4 ">  
       </div>
       
     </section>

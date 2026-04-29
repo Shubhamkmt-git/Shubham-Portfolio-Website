@@ -1,27 +1,31 @@
 <?php 
 
 ?>
+    
+
 
 <section id="skill" class="bg-white ">
 <div>
-   <h1 class=" text-6xl md:text-[140px] text-black px-2 md:px-6 py-12 fade-up">Skill<span class="text-[#F28347]">.</span></h1>
+   <h1 class=" text-5xl md:text-[140px] font-bold text-black px-2 md:px-6 py-12 fade-up ">Skill<span class="text-[#F28347]">.</span></h1>
 </div>
 
     <section class="text-black py-2 md:px-4 pl-2 ">
-  <div class="max-w-7xl mx-auto">
+  <div class="max-w-7xl mx-auto sm:mt-10">
 
     <!-- Timeline -->
-    <div class="relative border-l-4  border-[#F28347] pl-10 space-y-12 ">
+    <div class="relative border-l-4  border-[#F28347]  space-y-12 ">
 
-      <!-- ITEM -->
-      <div class="relative fade-left">
+       <div class="text-sm sm:text-5xl justify-left bg-[#F28347] text-white px-6 py-3 inline-block mr-2 md:mr-10 rounded-r-full fade-left "> Frontend Technologies.</div>
+     
+       <!-- ITEM -->
+      <div class="relative fade-left pl-10">
 
         <!-- Dot -->
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/html5.svg"  alt="html5" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">HTML5</h3>
+          <img src="src/html5.svg"  alt="html5"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">HTML5</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -31,13 +35,13 @@
       </div>
 
       <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/css3.svg" alt="css3"  class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">CSS3</h3>
+          <img src="src/css3.svg" alt="css3"   class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">CSS3</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -47,13 +51,13 @@
       </div>
 
       <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/tailwindcss.svg"  alt="Tailwind" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Tailwind CSS</h3>
+          <img src="src/tailwindcss.svg"  alt="Tailwind"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Tailwind CSS</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -63,13 +67,13 @@
       </div>
 
         <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/bootstrap.svg" alt="Bootstrap"  class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Bootstrap</h3>
+          <img src="src/bootstrap.svg" alt="Bootstrap"   class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Bootstrap</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -78,13 +82,13 @@
       </div>
 
       <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/javascript.svg" alt="Javascript" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Java Script</h3>
+          <img src="src/javascript.svg" alt="Javascript"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Java Script</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -93,14 +97,19 @@
         </p>
       </div>
 
-      <!-- ITEM -->
-      <div class="relative fade-left">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+
+       <div class="text-sm md:text-5xl justify-left bg-[#F28347] text-white px-6 py-3 inline-block mr-2 md:mr-10 rounded-r-full fade-left ">Backend Technologies.</div>
+
+
+      <!-- ITEM -->
+      <div class="relative fade-left pl-10">
+
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/php.svg" alt="php" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">PHP</h3>
+          <img src="src/php.svg" alt="php"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">PHP</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -109,28 +118,31 @@
       </div>
     
       <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/laravel.svg" alt="Laravel" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Laravel</h3>
+          <img src="src/laravel.svg" alt="Laravel" class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Laravel</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
           Building scalable web applications using Laravel with clean backend architecture and reusable components.
         </p>
       </div>
-    
-      <!-- ITEM -->
-      <div class="relative fade-left">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+
+           <div class="text-sm md:text-5xl justify-left bg-[#F28347] text-white px-6 py-3 inline-block mr-2 md:mr-10 rounded-r-full fade-left "> Tools.</div>
+
+      <!-- ITEM -->
+      <div class="relative fade-left pl-10">
+
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/mysql.svg" alt="My SQL" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">My SQL</h3>
+          <img src="src/mysql.svg" alt="My SQL"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">My SQL</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -139,13 +151,13 @@
       </div>
     
        <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/vscode.svg" alt="Visual Studio Code" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Visual Studio Code</h3>
+          <img src="src/vscode.svg" alt="Visual Studio Code"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Visual Studio Code</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -154,13 +166,13 @@
       </div>
     
        <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/git.svg" alt="Git" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Git</h3>
+          <img src="src/git.svg" alt="Git"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Git</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -169,13 +181,13 @@
       </div>
     
        <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/github.svg" alt="Git Hub"  class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Git Hub</h3>
+          <img src="src/github.svg" alt="Git Hub"   class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Git Hub</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -184,13 +196,13 @@
       </div>
     
        <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/figma.svg" alt="figma" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Figma</h3>
+          <img src="src/figma.svg" alt="figma"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Figma</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -198,13 +210,13 @@
         </p>
       </div>
        <!-- ITEM -->
-      <div class="relative fade-left">
+      <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
-          <img src="src/canva.svg" alt="canva" class="h-12">
-          <h3 class="text-3xl md:text-4xl font-semibold">Canva</h3>
+          <img src="src/canva.svg" alt="canva"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Canva</h3>
         </div>
 
         <p class="text-black text-sm md:text-2xl">
@@ -237,7 +249,7 @@
     </div>
 
     
-    <div class=" bg-white border border-white/40   p-2 sm:p-10 fade-up">
+    <div class=" bg-white border border-white/40    sm:p-10 fade-up">
 
       <div class="relative h-[320px] sm:h-[420px] md:h-[400px]">
         <canvas id="skillChart"></canvas>
