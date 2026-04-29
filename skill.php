@@ -6,7 +6,7 @@
 
 <section id="skill" class="bg-white ">
 <div>
-   <h1 class=" text-5xl md:text-[140px] font-bold text-gray-500 px-2 md:px-6 py-12 fade-up ">Skill<span class="text-[#F28347]">.</span></h1>
+   <h1 class=" text-5xl md:text-[140px] font-bold text-black px-2 md:px-6 py-12 fade-up ">Skill<span class="text-[#F28347]">.</span></h1>
 </div>
 
     <section class="text-black py-2 md:px-4 pl-2 ">
