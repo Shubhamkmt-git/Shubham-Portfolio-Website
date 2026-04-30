@@ -5,19 +5,20 @@ document.addEventListener("DOMContentLoaded", function () {
   const navbar = document.getElementById('navbar');
   const overlay = document.getElementById('nav-overlay');
 
-  // Mobile toggle
   btn.addEventListener('click', () => {
     menu.classList.toggle('hidden');
   });
 
-  // Close menu on link click
+
+
   document.querySelectorAll('#menu a').forEach(link => {
     link.addEventListener('click', () => {
       menu.classList.add('hidden');
     });
   });
 
-  // Smooth scroll with offset
+
+
   document.querySelectorAll('#menu a').forEach(link => {
     link.addEventListener('click', function(e) {
       e.preventDefault();
@@ -37,7 +38,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
-  // Navbar scroll effect
+
+
   window.addEventListener('scroll', () => {
     if (window.scrollY > 50) {
 
@@ -61,7 +63,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
-  // 🔥 SMOOTH SCROLL ANIMATION (UP + DOWN)
+
+
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
@@ -89,7 +92,8 @@ window.addEventListener('scroll', () => {
       el.classList.add('text-gray-700');
     });
 
-    // 🔥 CHANGE LOGO
+
+
     logo.src = "src/logo-white.png";
 
   } else {
@@ -102,7 +106,8 @@ window.addEventListener('scroll', () => {
       el.classList.remove('text-gray-700');
     });
 
-    // 🔥 BACK TO ORIGINAL LOGO
+
+
     logo.src = "src/logo-1.png";
   }
 });

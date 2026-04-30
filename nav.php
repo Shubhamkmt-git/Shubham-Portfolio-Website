@@ -16,15 +16,15 @@
 </head>
 <body class="selection:bg-[#F28347] selection:text-white ">
    <!-- navbar.php -->
-<nav id="navbar" class="fixed top-0 left-0 w-full bg-[#F28347] z-50 ">
+<nav id="navbar" class="fixed top-0 left-0 w-full bg-transparent z-50 ">
 <div id="nav-overlay"
      class="absolute top-0 right-0 h-full w-0 bg-white z-0 pointer-events-none transition-all duration-500 ease-in-out">
 </div>  
-<div class="relative z-50 container px-6 mx-auto flex items-center justify-between py-4 max-w-8xl ">
+<div class="relative z-50 w-full flex items-center justify-between py-4 px-2 md:px-10">
         
         <!-- Logo -->
         <div>
-           <a href="home.php"> <img id="logo" src="src/logo-1.png" alt="Portfolio Logo" class="h-10 md:h-14 "></a>
+           <a href="index.php"> <img id="logo" src="src/logo-1.png" alt="Portfolio Logo" class="h-10 md:h-14 "></a>
         </div>
 
         <!-- Hamburger Button -->
@@ -46,8 +46,7 @@
     </div>
 </nav>
 
--
--
+
 
 <!-- Script -->
 <script src="script.js"></script>

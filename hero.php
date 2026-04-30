@@ -4,8 +4,8 @@
 ?>
 
 
-<div class=" font-michroma bg-[#F28347] " id="hero">
-    <section id="hero" class="bg-[#F28347] grid grid-cols md:grid-cols-2 max-w-8xl   "> 
+<div class="  font-michroma bg-[#F28347] " id="hero">
+    <section id="hero" class="custom-bg  grid grid-cols md:grid-cols-2 max-w-8xl   "> 
       <div class="text-white bg-[#F28347] items-center my-auto mt-10  font-michroma md:p-10 ">
         <p class="text-4xl md:text-8xl mx-4  mt-10 hero-text">Hello I'm Shubham</p>
       
@@ -26,7 +26,7 @@
 </a>
 </div>
 
-      <div class="items-baseline">
+      <div class="items-baseline profile">
         <img src="src/shubham-img.png" alt="shubham Image" class=" mt-10 w-auto h-auto md:h-[620px]  mx-auto md:mt-[100px] px-4 ">  
       </div>
       
