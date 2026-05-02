@@ -3,7 +3,8 @@ body {
 }
 @media (min-width: 1024px) {
   .pra-style {
-    margin-top: 560px;
+    margin-top: 280px;
+    font-size: 90px;
   }
 }
 html {
@@ -106,8 +107,8 @@ will-change: transform, opacity;
   -webkit-mask-repeat: repeat;
   mask-repeat: repeat;
 
-  background-color: rgb(0, 0, 0);
-  opacity: 0.09;
+  background-color: #ff7022;
+  opacity:1;
 }
 .profile{
   z-index: 10;

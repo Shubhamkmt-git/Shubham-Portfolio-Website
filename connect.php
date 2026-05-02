@@ -125,6 +125,9 @@
   <hr class="bg-[#F28347]  max-w-7xl mx-auto my-10">
 <div class="text-black text-sm  flex justify-center mx-auto mt-10 ">
   @ 2026 | All Rights Reserved.</div>
+  <div>
+    <p class="p-2 flex mx-auto text-sm justify-center">[Web under maintenance some feature may not be available ]</p>
+  </div>
 </section>
 
 </body>

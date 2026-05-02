@@ -4,9 +4,9 @@
 ?>
 
 
-<div class="  font-michroma bg-[#F28347] " id="hero">
+<div class="  font-michroma bg-[#F28347] bg-fixed" id="hero" >
     <section id="hero" class="custom-bg  grid grid-cols md:grid-cols-2 max-w-8xl   "> 
-      <div class="text-white bg-[#F28347] items-center my-auto mt-10  font-michroma md:p-10 ">
+      <div class="text-white bg-[#F28347] items-center my-auto mt-10 md:mt-auto font-michroma md:p-10  ">
         <p class="text-4xl md:text-8xl mx-4  mt-10 hero-text">Hello I'm Shubham</p>
       
          <p class=" mt-6 text-[#F28347]  text-md md:text-3xl bg-white  inline-block md:px-4 md:py-4  px-2 py-1 mx-4 hero-text">Web & Tech Developer.</p>
