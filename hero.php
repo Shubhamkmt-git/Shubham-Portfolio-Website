@@ -33,6 +33,5 @@
     </section>
 
       </div>
-
-
+<marquee class="md:hidden  "  behavior="continuous"   direction="left">Hello I'm <span class=" text-black">Shubham</span> | Web & Tech Developer</marquee>
     

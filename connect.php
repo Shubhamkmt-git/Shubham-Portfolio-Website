@@ -60,7 +60,7 @@
 
         <!-- Card -->
         <a href="https://linkedin.com/in/shubham-kumawat-tech" target="_blank"
-          class="group bg-white p-2 md:p-6 bg-shadow-sm hover:shadow-lg transition relative overflow-hidden">
+          class="group bg-white p-2 md:p-6 shadow-sm hover:shadow-lg transition relative overflow-hidden">
 
           <div class="absolute inset-0 bg-[#F28347] opacity-0 group-hover:opacity-10 transition"></div>
 
