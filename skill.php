@@ -4,7 +4,7 @@
     
 
 
-<section id="skill" class="bg-white ">
+<section id="skill" class="bg-white custom-bg-2">
 <div>
    <h1 class=" text-5xl md:text-[140px] font-bold text-black px-2 md:px-6 py-12 fade-up ">Skill<span class="text-[#F28347]">.</span></h1>
 </div>
@@ -15,7 +15,7 @@
     <!-- Timeline -->
     <div class="relative border-l-4  border-[#F28347]  space-y-12 ">
 
-       <div class="text-sm sm:text-5xl justify-left bg-[#F28347] text-white px-6 py-3 inline-block mr-2 md:mr-10 rounded-r-full fade-left "> Frontend Technologies.</div>
+       <div class="text-sm sm:text-5xl justify-left bg-black text-white px-6 py-3 inline-block mr-2 md:mr-10  fade-left "> Frontend Technologies.</div>
      
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
@@ -99,7 +99,7 @@
 
 
 
-       <div class="text-sm md:text-5xl justify-left bg-[#F28347] text-white px-6 py-3 inline-block mr-2 md:mr-10 rounded-r-full fade-left ">Backend Technologies.</div>
+       <div class="text-sm md:text-5xl justify-left bg-black text-white px-6 py-3 inline-block mr-2 md:mr-10  fade-left ">Backend Technologies.</div>
 
 
 
@@ -135,7 +135,7 @@
       </div>
 
 
-           <div class="text-sm md:text-5xl justify-left bg-[#F28347] text-white px-6 py-3 inline-block mr-2 md:mr-10 rounded-r-full fade-left "> Tools.</div>
+           <div class="text-sm md:text-5xl justify-left bg-black text-white px-6 py-3 inline-block mr-2 md:mr-10  fade-left "> Tools.</div>
 
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
@@ -236,7 +236,7 @@
 
 </section>
 
-<!-- Skill Graph Section -->
+<!-- Skill Graph -->
 <section class="bg-white py-10 px-4 ">
   <div class="max-w-8xl mx-auto md:px-6 sm:px-2 lg:px-8">
 

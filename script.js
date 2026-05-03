@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       navbar.querySelectorAll('a, button').forEach(el => {
         el.classList.remove('text-white');
-        el.classList.add('text-gray-700');
+        el.classList.add('text-black');
       });
 
     } else {
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       navbar.querySelectorAll('a, button').forEach(el => {
         el.classList.add('text-white');
-        el.classList.remove('text-gray-700');
+        el.classList.remove('text-black');
       });
     }
   });
@@ -89,7 +89,7 @@ window.addEventListener('scroll', () => {
 
     navbar.querySelectorAll('a, button').forEach(el => {
       el.classList.remove('text-white');
-      el.classList.add('text-gray-700');
+      el.classList.add('text-black');
     });
 
 
@@ -103,7 +103,7 @@ window.addEventListener('scroll', () => {
 
     navbar.querySelectorAll('a, button').forEach(el => {
       el.classList.add('text-white');
-      el.classList.remove('text-gray-700');
+      el.classList.remove('text-black');
     });
 
 

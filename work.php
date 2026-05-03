@@ -4,7 +4,7 @@
 
 
 
-<section id="work" class="bg-[fff] font-michroma px-2 md:px-6 py-12 ">
+<section id="work" class="bg-[fff] font-michroma px-2 md:px-6 py-12 custom-bg-2">
    <h2 class="text-5xl md:text-[140px] font-bold text-black fade-left ">My Work<span class="text-[#F28347]  ">.</span></h2>
 
   <div class="max-w-7xl mx-auto py-10">

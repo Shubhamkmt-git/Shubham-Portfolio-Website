@@ -14,7 +14,7 @@
      <link rel="icon" type="image/png" href="src/logo-white.png">
      
 </head>
-<body class="selection:bg-[#F28347] selection:text-white ">
+<body class="selection:bg-[#F28347] selection:text-white z-10 ">
    <!-- navbar.php -->
 <nav id="navbar" class="fixed top-0 left-0 w-full bg-transparent z-50 ">
 <div id="nav-overlay"

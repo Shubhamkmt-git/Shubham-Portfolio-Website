@@ -5,7 +5,7 @@
 
 
 <!-- Connect Section -->
-<section class="bg-white px-2 md:px-6 py-12 reveal " id="connect">
+<section class="bg-white px-2 md:px-6 py-12 reveal custom-bg-2" id="connect">
   <div class="max-w-8xl mx-auto">
 
 
