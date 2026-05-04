@@ -18,7 +18,7 @@
   md:text-3xl text-lg 
   hover:bg-[#0d0907] hover:text-[#ebdbf2] 
   hover:shadow hover:scale-105 hover:-translate-y-1 
-  active:scale-95 hero-text">
+  active:scale-95 hero-text mb-8">
     
     Say Hello !
   </button>
@@ -33,7 +33,7 @@
     </section>
 
       </div>
-<marquee class="md:hidden  text-[#0d0907]"  behavior="continuous"   direction="left">Hello I'm <span >Shubham</span> | Web & Tech Developer</marquee>
-    <a href="https://open.spotify.com/search/ordinary" target="_blank">
-  Play "Ordinary" on Spotify
-</a>
+
+
+
+

@@ -95,7 +95,7 @@
         </a>
 
         <!-- X -->
-        <a href="https://x.com/shubham768737" target="_blank"
+        <a href="https://x.com/ShubhamKum43807" target="_blank"
           class="group bg-[#ebdbf2] p-2 md:p-6 shadow-sm hover:shadow-lg transition relative overflow-hidden">
 
           <div class="absolute inset-0 bg-[#0d0907] opacity-0 group-hover:opacity-10 transition"></div>
