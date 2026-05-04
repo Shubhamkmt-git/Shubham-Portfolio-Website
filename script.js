@@ -47,8 +47,8 @@ document.addEventListener("DOMContentLoaded", function () {
       navbar.classList.add('shadow-md');
 
       navbar.querySelectorAll('a, button').forEach(el => {
-        el.classList.remove('text-white');
-        el.classList.add('text-black');
+        el.classList.remove('text-[#0d0907]');
+        el.classList.add('text-[#ebdbf2]');
       });
 
     } else {
@@ -57,8 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
       navbar.classList.remove('shadow-md');
 
       navbar.querySelectorAll('a, button').forEach(el => {
-        el.classList.add('text-white');
-        el.classList.remove('text-black');
+          el.classList.add('text-[#0d0907]');
+          el.classList.remove('text-[#ebdbf2]');
       });
     }
   });
@@ -88,13 +88,13 @@ window.addEventListener('scroll', () => {
     navbar.classList.add('shadow-md');
 
     navbar.querySelectorAll('a, button').forEach(el => {
-      el.classList.remove('text-white');
-      el.classList.add('text-black');
+       el.classList.remove('text-[#0d0907]');
+        el.classList.add('text-[#ebdbf2]');
     });
 
 
 
-    logo.src = "src/logo-white.png";
+    logo.src = "src/logo-1.png";
 
   } else {
 
@@ -102,14 +102,15 @@ window.addEventListener('scroll', () => {
     navbar.classList.remove('shadow-md');
 
     navbar.querySelectorAll('a, button').forEach(el => {
-      el.classList.add('text-white');
-      el.classList.remove('text-black');
+      el.classList.add('text-[#0d0907]');
+      el.classList.remove('text-[#ebdbf2]');
     });
 
 
 
-    logo.src = "src/logo-1.png";
+    logo.src = "src/logo-white.png";
   }
 });
 
 });
+

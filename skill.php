@@ -4,24 +4,24 @@
     
 
 
-<section id="skill" class="bg-white custom-bg-2">
+<section id="skill" class="bg-[#ebdbf2] custom-bg-2">
 <div>
-   <h1 class=" text-5xl md:text-[140px] font-bold text-black px-2 md:px-6 py-12 fade-up ">Skill<span class="text-[#F28347]">.</span></h1>
+   <h1 class=" text-5xl md:text-[140px] font-bold text-[#0d0907] px-2 md:px-6 py-12 fade-up ">Skill<span class="text-[#0d0907]">.</span></h1>
 </div>
 
-    <section class="text-black py-2 md:px-4 pl-2 ">
+    <section class="text-[#0d0907] py-2 md:px-4 pl-2 ">
   <div class="max-w-7xl mx-auto sm:mt-10">
 
     <!-- Timeline -->
-    <div class="relative border-l-4  border-[#F28347]  space-y-12 ">
+    <div class="relative border-l-4  border-[#0d0907]  space-y-12 ">
 
-       <div class="text-sm sm:text-5xl justify-left bg-black text-white px-6 py-3 inline-block mr-2 md:mr-10  fade-left "> Frontend Technologies.</div>
+       <div class="text-sm sm:text-5xl justify-left bg-[#0d0907] text-[#ebdbf2] px-6 py-3 inline-block mr-2 md:mr-10  fade-left "> Frontend Technologies.</div>
      
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
         <!-- Dot -->
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/html5.svg"  alt="html5"  class="py-2 md:py-0 h-12">
@@ -37,7 +37,7 @@
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/css3.svg" alt="css3"   class="py-2 md:py-0 h-12">
@@ -53,7 +53,7 @@
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/tailwindcss.svg"  alt="Tailwind"  class="py-2 md:py-0 h-12">
@@ -69,7 +69,7 @@
         <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/bootstrap.svg" alt="Bootstrap"   class="py-2 md:py-0 h-12">
@@ -84,7 +84,7 @@
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/javascript.svg" alt="Javascript"  class="py-2 md:py-0 h-12">
@@ -99,7 +99,7 @@
 
 
 
-       <div class="text-sm md:text-5xl justify-left bg-black text-white px-6 py-3 inline-block mr-2 md:mr-10  fade-left ">Backend Technologies.</div>
+       <div class="text-sm md:text-5xl justify-left bg-black text-[#ebdbf2] px-6 py-3 inline-block mr-2 md:mr-10  fade-left ">Backend Technologies.</div>
 
 
 
@@ -107,7 +107,7 @@
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/php.svg" alt="php"  class="py-2 md:py-0 h-12">
@@ -122,7 +122,7 @@
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/laravel.svg" alt="Laravel" class="py-2 md:py-0 h-12">
@@ -135,12 +135,12 @@
       </div>
 
 
-           <div class="text-sm md:text-5xl justify-left bg-black text-white px-6 py-3 inline-block mr-2 md:mr-10  fade-left "> Tools.</div>
+           <div class="text-sm md:text-5xl justify-left bg-black text-[#ebdbf2] px-6 py-3 inline-block mr-2 md:mr-10  fade-left "> Tools.</div>
 
       <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/mysql.svg" alt="My SQL"  class="py-2 md:py-0 h-12">
@@ -155,7 +155,7 @@
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/vscode.svg" alt="Visual Studio Code"  class="py-2 md:py-0 h-12">
@@ -170,7 +170,7 @@
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/git.svg" alt="Git"  class="py-2 md:py-0 h-12">
@@ -185,7 +185,7 @@
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/github.svg" alt="Git Hub"   class="py-2 md:py-0 h-12">
@@ -200,7 +200,7 @@
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/figma.svg" alt="figma"  class="py-2 md:py-0 h-12">
@@ -214,7 +214,7 @@
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
-        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#F28347] rounded-full mx-10"></span>
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
 
         <div class="flex items-center gap-4 mb-2">
           <img src="src/canva.svg" alt="canva"  class="py-2 md:py-0 h-12">
@@ -237,21 +237,21 @@
 </section>
 
 <!-- Skill Graph -->
-<section class="bg-white py-10 px-4 ">
+<section class="bg-[#ebdbf2] py-10 px-4 custom-bg-2">
   <div class="max-w-8xl mx-auto md:px-6 sm:px-2 lg:px-8">
 
   
     <div class="mb-12 fade-left">
-      <h2 class="text-3xl md:text-4xl sm:text-5xl font-bold text-black ">
-        Skill Insights<span class="text-[#F28347]">.</span>
+      <h2 class="text-3xl md:text-4xl sm:text-5xl font-bold text-[#0d0907]">
+        Skill Insights<span class="text-[#0d0907]">.</span>
       </h2>
-      <p class="text-black mt-3 text-sm sm:text-base max-w-xl">
+      <p class="text-[#0d0907] mt-3 text-sm sm:text-base max-w-xl">
         A refined visualization of my practical experience and technology usage.
       </p>
     </div>
 
     
-    <div class=" bg-white border border-white/40    sm:p-10 fade-up">
+    <div class=" bg-white border-2 border-[#0d0907]   sm:p-10 fade-left">
 
       <div class="relative h-[320px] sm:h-[420px] md:h-[400px]">
         <canvas id="skillChart"></canvas>
@@ -268,8 +268,9 @@ const ctx = document.getElementById('skillChart').getContext('2d');
 
 // Animated Gradient
 let gradient = ctx.createLinearGradient(0, 0, 0, 500);
-gradient.addColorStop(0, "rgba(242,131,71,0.6)");
-gradient.addColorStop(1, "rgba(242,131,71,0)");
+
+gradient.addColorStop(0, "rgba(13, 9, 7, 0.6)");
+gradient.addColorStop(1, "rgba(13, 9, 7, 0)");
 
 const skillChart = new Chart(ctx, {
   type: 'line',
@@ -277,17 +278,17 @@ const skillChart = new Chart(ctx, {
     labels: ['HTML5','CSS3','Tailwind CSS', 'Bootstrap', 'JS','PHP','Laravel','MySQL','Git','Figma','Canva'],
     datasets: [{
       data: [95,90,88,82,75,72,65,80,84,86,96],
-      borderColor: '#F28347',
+      borderColor: '#0d0907',
       backgroundColor: gradient,
       fill: true,
       tension: 0.45,
 
-      pointBackgroundColor: '#F28347',
+      pointBackgroundColor: '#0d0907',
       pointBorderColor: '#fff',
       pointBorderWidth: 2,
       pointRadius: 4,
       pointHoverRadius: 8,
-      pointHoverBackgroundColor: '#000'
+      pointHoverBackgroundColor: '#0d0907',
     }]
   },
 
@@ -304,7 +305,7 @@ const skillChart = new Chart(ctx, {
       legend: { display: false },
 
       tooltip: {
-        backgroundColor: '#111',
+        backgroundColor: '#0d0907',
         titleColor: '#fff',
         bodyColor: '#ccc',
         padding: 12,
@@ -347,7 +348,7 @@ const skillChart = new Chart(ctx, {
 
 // Glow effect on hover
 document.getElementById('skillChart').addEventListener('mousemove', function(e) {
-  this.style.filter = "drop-shadow(0px 10px 20px rgba(242,131,71,0.3))";
+  this.style.filter = "drop-shadow(0px 10px 20px rgba(13, 9, 7, 0.3))";
 });
 
 document.getElementById('skillChart').addEventListener('mouseleave', function(e) {

@@ -106,8 +106,8 @@ will-change: transform, opacity;
   -webkit-mask-repeat: repeat;
   mask-repeat: repeat;
 
-  background-color: #ffffff88;
-  opacity:0.9;
+  background-color: #ebdbf2;
+  opacity:0.15;
   
 }
 
@@ -136,7 +136,7 @@ will-change: transform, opacity;
   -webkit-mask-repeat: repeat;
   mask-repeat: repeat;
 
-  background-color: #00000088;
+  background-color: #0d0907;
   opacity:0.15;
   
 }
