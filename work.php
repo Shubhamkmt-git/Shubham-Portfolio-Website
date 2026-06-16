@@ -5,54 +5,57 @@
 
 
 <section id="work" class="bg-[#ebdbf2] font-michroma px-2 md:px-6 py-12 custom-bg-2">
-   <h2 class="text-5xl md:text-[140px] font-bold text-[#0d0907] fade-left ">My Work<span class="text-[#0d0907]  ">.</span></h2>
+    <h2 class="text-5xl md:text-[140px] font-bold text-[#0d0907] fade-left ">My Work<span
+            class="text-[#0d0907]  ">.</span></h2>
 
-  <div class="max-w-7xl mx-auto py-10">
+    <div class="max-w-7xl mx-auto py-10">
 
-    <!-- Experience Item -->
-    <div class="mb-12 border-l-2 border-[#0d0907] pl-6 fade-left">
+        <!-- Experience Item -->
+        <div class="mb-12 border-l-2 border-[#0d0907] pl-6 fade-left">
 
-      <!-- Role + Company -->
-      <h3 class="text-xl font-semibold ">
-        Full Stack Project <br>
-        <span class="text-[#0d0907]  "># LimeStreet</span>
-      </h3>
+            <!-- Role + Company -->
+            <h3 class="text-xl font-semibold ">
+                Full Stack Project <br>
+                <span class="text-[#0d0907]  "># LimeStreet</span>
+            </h3>
 
-     
 
-      <!-- Description -->
-      <p class="text-gray-700 leading-relaxed mb-4  ">
-        Working on an e-commerce platform where I contribute to both frontend and backend development. Focused on building scalable features, improving UI experience, and optimizing system performance.
-      </p>
 
-      <!-- Tech Stack -->
-      <p class="text-sm text-[#0d0907]  ">
-        <span class="font-semibold">Tech:</span> Spring Boot, ReactJS, PostgreSQL, Redis
-      </p>
-      link to project: <a href="https://www.limestreet.com/" target="_blank" 
-   rel="noopener noreferrer" class=" mt-2 text-[#0d0907] hover:underline  ">LimeStreet</a>
+            <!-- Description -->
+            <p class="text-gray-700 leading-relaxed mb-4  ">
+                Working on an e-commerce platform where I contribute to both frontend and backend development. Focused
+                on building scalable features, improving UI experience, and optimizing system performance.
+            </p>
+
+            <!-- Tech Stack -->
+            <p class="text-sm text-[#0d0907]  ">
+                <span class="font-semibold">Tech:</span> Spring Boot, ReactJS, PostgreSQL, Redis
+            </p>
+            link to project: <a href="https://www.limestreet.com/" target="_blank" rel="noopener noreferrer"
+                class=" mt-2 text-[#0d0907] hover:underline  ">LimeStreet</a>
+        </div>
+
+        <!-- Second Experience -->
+        <div class="border-l-2 border-[#0d0907] pl-6  fade-left">
+
+            <h3 class="text-xl font-semibold  ">
+                Full Stack Project <br>
+                <span class="text-[#0d0907]  "># zforg</span>
+            </h3>
+
+
+
+            <p class="text-gray-700 leading-relaxed mb-4  ">
+                Worked on web development projects focusing on responsive design, clean UI, and functional form
+                handling. </p>
+
+            <p class="text-sm text-[#0d0907]  ">
+                <span class="font-semibold">Tech:</span> HTML, CSS, PHP, Tailwind CSS, Web3 Forms
+            </p>
+            link to project: <a href="https://zforg.kesug.com" target="_blank" rel="noopener noreferrer"
+                class=" mt-2 text-[#0d0907] hover:underline ">zforg</a>
+
+        </div>
+
     </div>
-
-    <!-- Second Experience -->
-    <div class="border-l-2 border-[#0d0907] pl-6  fade-left">
-
-      <h3 class="text-xl font-semibold  ">
-        Full Stack Project <br>
-        <span class="text-[#0d0907]  "># zforg</span>
-      </h3>
-
-     
-
-      <p class="text-gray-700 leading-relaxed mb-4  ">
-Worked on web development projects focusing on responsive design, clean UI, and functional form handling.      </p>
-
-      <p class="text-sm text-[#0d0907]  ">
-        <span class="font-semibold">Tech:</span> HTML, CSS, PHP, Tailwind CSS, Web3 Forms
-      </p>
-            link to project: <a href="https://zforg.kesug.com" target="_blank" 
-   rel="noopener noreferrer" class=" mt-2 text-[#0d0907] hover:underline ">zforg</a>
-
-    </div>
-
-  </div>
 </section>

@@ -66,6 +66,22 @@
         </p>
       </div>
 
+      <!-- ITEM -->
+      <div class="relative fade-left pl-10">
+
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
+
+        <div class="flex items-center gap-4 mb-2">
+          <img src="src/react.svg"  alt="Tailwind"  class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">React.Js</h3>
+        </div>
+
+        <p class="text-black text-sm md:text-2xl">
+          I use React.js to build fast, scalable, and maintainable user interfaces
+          with reusable components and efficient state management.
+        </p>
+      </div>
+
         <!-- ITEM -->
       <div class="relative fade-left pl-10">
 
@@ -196,6 +212,21 @@
           Managing repositories and collaborating on projects using GitHub.
         </p>
       </div>
+
+       <!-- ITEM -->
+      <div class="relative fade-left pl-10">
+
+        <span class="absolute -left-[52px] top-2 w-5 h-5 bg-[#0d0907] rounded-full mx-10"></span>
+
+        <div class="flex items-center gap-4 mb-2">
+          <img src="src/postman.svg" alt="Postman"   class="py-2 md:py-0 h-12">
+          <h3 class="text-xl md:text-4xl font-semibold">Postman</h3>
+        </div>
+
+        <p class="text-black text-sm md:text-2xl">
+         Using Postman to build, test, and automate API workflows, ensuring reliable and scalable integrations.
+        </p>
+      </div>
     
        <!-- ITEM -->
       <div class="relative fade-left pl-10">
@@ -275,9 +306,9 @@ gradient.addColorStop(1, "rgba(13, 9, 7, 0)");
 const skillChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: ['HTML5','CSS3','Tailwind CSS', 'Bootstrap', 'JS','PHP','Laravel','MySQL','Git','Figma','Canva'],
+    labels: ['HTML5','CSS3','Tailwind CSS','React.Js', 'Bootstrap', 'JS','PHP','Laravel','MySQL','Git','Git-Hub','Postman','Figma','Canva'],
     datasets: [{
-      data: [95,90,88,82,75,72,65,80,84,86,96],
+      data: [95,90,88,90,82,75,72,65,80,84,90,80,86,96],
       borderColor: '#0d0907',
       backgroundColor: gradient,
       fill: true,
